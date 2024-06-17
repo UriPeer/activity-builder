@@ -12,8 +12,8 @@
       },
       "justMyCode": true,
       "args": ["run", "--no-debugger"],
-      "python": "{Your project path}/server/venv/Scripts/python.exe",
-      "cwd": "{Your project path}/server"
+      "python": "{Your project path}/activity-builder/server/.venv/Scripts/python.exe",
+      "cwd": "{Your project path}/activity-builder/server"
     }
   ]
 }
