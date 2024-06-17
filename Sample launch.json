@@ -12,7 +12,7 @@
       },
       "justMyCode": true,
       "args": ["run", "--no-debugger"],
-      "python": "{Your project path}/server/.venv/Scripts/python.exe",
+      "python": "{Your project path}/server/venv/Scripts/python.exe",
       "cwd": "{Your project path}/server"
     }
   ]
