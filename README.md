@@ -15,7 +15,7 @@ py -3 -m venv .venv
 pip install -r ./requirements.txt
 python ./application.py
 ```
-Frontend: (Open new Console)
+Frontend: (Open new Console at the main folder)
 ```bash
 cd client
 npm install
