@@ -2,7 +2,7 @@
 
 Activity builder for youth movement made by Uri Peer.
 
-To run: (Open Console)
+To run: (Open Console at the desired path)
 ```bash
 git clone https://github.com/UriPeer/activity-builder.git
 cd activity-builder
